@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @noor-anik
+- 👋 Hi, I’m Md. Noor Hasan Anik
 - 👀 I’m interested in ML.
 - 🌱 I’m currently learning it!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Backend Web Development
+- 📫 noor01@student.sust.edu
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
