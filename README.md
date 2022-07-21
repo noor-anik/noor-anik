@@ -1,12 +1,8 @@
-- 👋 Hi, I’m Md. Noor Hasan Anik
+- 👋 Hi, I’m **Md. Noor Hasan Anik**
 - 👀 I’m interested in ML.
 - 🌱 I’m currently learning Neural Network and Deep Learning!
 - 💞️ I’m looking to collaborate on Backend Web Development.
 - 📫 noor01@student.sust.edu
-<div>
-<span style="color:blue">some *blue* text </span>
-</div>
-<span style="color:red">some **This is Red Bold.** text</span>
 
 <div>
   <img src="https://github.com/Benio101/cpp-logo/blob/master/cpp_logo.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
