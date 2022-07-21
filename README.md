@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Backend Web Development.
 - 📫 noor01@student.sust.edu
 
+<span style="color:blue">some *blue* text</span>.
+
 <div>
   <img src="https://github.com/Benio101/cpp-logo/blob/master/cpp_logo.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
